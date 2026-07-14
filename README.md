@@ -1,6 +1,6 @@
 ### Hi, I'm Rudina 👋
 
-**Biomedical data scientist (PhD) transitioning into applied data science and ML for healthcare.**
+**Biomedical senior scientist (PhD) transitioning into applied data science and ML for healthcare.**
 
 Nine years in pharmaceutical R&D and GMP-regulated analytical science — CAR-T cell therapy, bioanalytical assay development, and clinical release testing across Autolus Therapeutics, GSK Cell & Gene Therapy, and Thermo Fisher. Currently building applied ML capability through the University of Cambridge Data Science with Machine Learning & AI Career Accelerator (Apr–Oct 2026).
 
